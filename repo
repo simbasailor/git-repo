@@ -2,8 +2,10 @@
 
 ## repo default configuration
 ##
-REPO_URL = 'https://gerrit.googlesource.com/git-repo'
-REPO_REV = 'stable'
+# REPO_URL = 'https://gerrit.googlesource.com/git-repo'
+REPO_URL = 'https://github.com/simbasailor/git-repo.git'
+# REPO_REV = 'stable'
+REPO_REV = 'default'
 
 # Copyright (C) 2008 Google Inc.
 #
